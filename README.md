@@ -28,4 +28,4 @@ In sample #7 we have (Actual 1, Predicted: 0.98). The major positive values are 
     </p>
     In sample #21 we have only one positive value of the attribute “Total_Trans_amt”. Here we have a case of False Positive
 
-![ezcv logo](https://github.com/gil612/ML_Bank_Churners/blob/main/Images/LIME%5B21%5D.png)
+![ezcv logo](https://github.com/gil612/ML_Bank_Churners/blob/main/Images/LIME%5B21%5D.png?raw=true)
