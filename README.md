@@ -27,7 +27,5 @@ In sample #7 we have (Actual 1, Predicted: 0.98). The major positive values are 
      <img src="https://github.com/gil612/ML_Bank_Churners/blob/main/Images/LIME%5B21%5D.png" width="600"/>
     </p>
     In sample #21 we have only one positive value of the attribute “Total_Trans_amt”. Here we have a case of False Positive
-    <p align="center">
-     <img src="https://github.com/gil612/ML_Bank_Churners/blob/main/Images/LIME%5B34%5D.png" width="600"/>
 
-</p>
+![ezcv logo](https://github.com/gil612/ML_Bank_Churners/blob/main/Images/LIME%5B21%5D.png)
